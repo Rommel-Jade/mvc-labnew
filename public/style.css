@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #eef1f5;
+    color: #374151;
+    margin: 0;
+    padding: 50px 20px;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+    background: white;
+    border-radius: 8px;
+    overflow: hidden;
+    border: 1px solid #d1d5db;
+}
+
+.header {
+    background: #6489b3;
+    color: white;
+    padding: 20px;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 26px;
+}
+
+.content {
+    padding: 25px;
+}
+
+.description {
+    color: #6b7280;
+    font-size: 14px;
+}
+
+.student {
+    display: block;
+    background: #f3f4f6;
+    border: 1px solid #d1d5db;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 10px;
+    color: #374151;
+    text-decoration: none;
+}
+
+small {
+    color: #6b7280;
+}
+
+.profile {
+    background: #f3f4f6;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.btn {
+    display: inline-block;
+    background: #6489b3;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+}
